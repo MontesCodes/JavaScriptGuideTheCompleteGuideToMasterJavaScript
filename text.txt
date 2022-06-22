@@ -1,0 +1,19 @@
+10. Comparaison and Coercion in JavaScript
+11. Javascript Object and Prototypes
+12. Working with the DOM
+13. Events in detail
+14. Working with the BOM
+15. JSON and AJAX
+16. ES6  ECMAScript 2015
+1. Introducing JavaScript
+2. JavaScript Basics
+3. JavaScript Conditional Statements
+4. JavaScript Loops
+5. Working with arrays
+7. Working with JavaScript functions
+8. Advanced JavaScript function concepts
+9. Working with JavaScript strings
+index.html
+script.js
+style.css
+text.txt
